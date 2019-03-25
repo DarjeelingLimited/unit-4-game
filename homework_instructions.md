@@ -62,7 +62,7 @@ In this assignment, you'll create another fun and interactive game for web brows
 
 * Each crystal should have a random hidden value between 1 - 12.
 
-### Option Two: Star Wars RPG Game (Challenge)
+<!-- ### Option Two: Star Wars RPG Game (Challenge)
 
 ![Star Wars](Images/2-StarWars.jpg)
 
@@ -104,7 +104,7 @@ In this assignment, you'll create another fun and interactive game for web brows
 
   * A winning player must pick their characters wisely by first fighting an enemy with low `Counter Attack Power`. This will allow them to grind `Attack Power` and to take on enemies before they lose all of their `Health Points`. Healing options would mess with this dynamic.
 
-* Your players should be able to win and lose the game no matter what character they choose. The challenge should come from picking the right enemies, not choosing the strongest player.
+* Your players should be able to win and lose the game no matter what character they choose. The challenge should come from picking the right enemies, not choosing the strongest player. -->
 
 ### Reminder: Submission on BCS
 
