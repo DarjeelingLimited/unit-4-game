@@ -10,6 +10,9 @@ Why the project is useful
 
 This project demonstrates the use of javascript and using 'if/else if' statements, while ensuring a new randomly generated number is populated for each round of play.
 
+Deployed project link
+https://darjeelinglimited.github.io/unit-4-game/
+
 How users can get started with the project
 
 Users can interact with this game by clicking the crystal images, and they will attempt to match the randomly generated total number.  
